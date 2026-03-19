@@ -9,6 +9,9 @@
 <p align="center">
   Building websites, apps, and AI-powered systems. Let’s innovate together!
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saurbasha-web&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
