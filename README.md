@@ -1,6 +1,7 @@
+👀 Profile Views
+
 <h1 align="center">Hi 👋, I'm Saur Basha J</h1>
 <h3 align="center">🚀 Developer | 🤖 AI Enthusiast | 🌐 Founder of CosmoTec</h3>
-👀 Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Saurbasha-web&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -8,9 +9,6 @@
 
 <p align="center">
   Building websites, apps, and AI-powered systems. Let’s innovate together!
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saurbasha-web&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
